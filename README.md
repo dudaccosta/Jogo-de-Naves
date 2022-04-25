@@ -1,6 +1,11 @@
 # Jogo-de-Naves
 
-Objetivo do jogo: Resgatar o companheiro o máximo de vezes e atirar nos inimigos.
+Objetivo do jogo: Leve o avião até seu companheiro e o resgate o máximo de vezes enquanto atira nos inimigos para não te danificar (perder energia) ou atropelar/sequestrar seu companheiro.
+
+Teclas: W, S, D
+  W: Move o avião para cima.
+  S: Move o avião para baixo.
+  D: Atira.
 
 Energia: Se seu avião explodir 3x você morre.
 
