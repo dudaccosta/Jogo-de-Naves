@@ -3,6 +3,8 @@
 Objetivo do jogo: Leve o avião até seu companheiro e o resgate o máximo de vezes enquanto atira nos inimigos para não te danificar (perder energia) ou atropelar/sequestrar seu companheiro.
 
 Teclas: W, S, D
+
+
   W: Move o avião para cima.
   S: Move o avião para baixo.
   D: Atira.
